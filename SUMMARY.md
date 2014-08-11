@@ -2,6 +2,12 @@
 
 This is the summary of my book.
 
+* [Equipment and Software](equipment_and_software/README.md)
+   * [Strongly Suggested Hardware/Software](equipment_and_software/strongly_suggested_hardwaresoftware.md)
+   * [Installation](equipment_and_software/installation.md)
+* [Computer Basics](computer_basics/README.md)
+   * [OSX Basics (1 hour)](computer_basics/osx_basics_1_hour.md)
+   * [Typing (1 hour)](computer_basics/typing_1_hour.md)
 * [Your First Site](first_site/README.md)
   * [Install Google Chrome]
   * [Choose a theme]
