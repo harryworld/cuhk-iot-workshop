@@ -4,11 +4,10 @@ Congratulations on joining _Web Development Immersive (WDI)_. This is the beginn
 
 ### Mindset
 
-We strongly believe mindset is very important. So a few words on this.
+We believe mindset is very important to your success. So a few words on this.
 
-We think of this course as an apprenticeship program. From this moment on, you are not a student, and we are not your instructors. Rather, you are now a junior web developer and we are your senior developers, mentor and guides.
+We think of this course as an apprenticeship program. From this moment on, you are not a student, and we are not your instructors. Rather, you are now a junior web developer and we are your senior developers, mentors and guides.
 
-
-It's important you understand that you get out of the course the effort that you put in.
+You get out of the course the effort that you put in.
 
 This prework will expose you to basic topics, so we can hit the ground running when the program starts.

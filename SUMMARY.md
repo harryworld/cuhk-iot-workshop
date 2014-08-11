@@ -2,12 +2,23 @@
 
 This is the summary of my book.
 
-* [First Site](first_site/README.md)
-  * [Bootstrap](first_site/bootstrap.md)
-  * [Modify](first_site/modify.md)
-  * [Deployment](first_site/deployment.md)
+* [Your First Site](first_site/README.md)
+  * [Install Google Chrome]
+  * [Choose a theme]
+  * [Install Sublime Text 3]
+  * [Modify Site](first_site/modify.md)
+  * [Deploy and Share](first_site/deployment.md)
     * [Bit Balloon](first_site/deployment/bit_balloon.md)
     * [Github Pages](first_site/deployment/github_pages.md)
-* [Terminal](terminal/README.md)
-  * [Installations](terminal/installations.md)
+* [Terminal and Command Line](terminal/README.md)
+  * [Installations (Mac OSX)]
+    * [iTerm 2]
+    * [Git via Command Line Tools]
+    * [oh-my-zsh]
+  * [Installations (Windows)]
+    * [Terminal ???]
+    * [git ???]
+* [Coffeescript](coffeescript/README.md)
+* [Ruby](ruby/README.md)
+* [Books](books/README.md)
 
