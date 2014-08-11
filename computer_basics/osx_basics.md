@@ -1,4 +1,4 @@
-# OSX Basics (1 hour)
+# OSX Basics
 
 ###Purposes:
 
