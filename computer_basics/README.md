@@ -1,4 +1,4 @@
-# PART 1 - Computer Basics
+# Computer Basics
 
 Before we dive into programming, make sure you know your way around your computer like a developer. Practice incorporating keyboard shortcuts into your day-to-day computer use. They may be hard to remember at first, but learning them will make you exponentially faster using your computer. Try to memorize them and minimize how much you use your mouse.
 
