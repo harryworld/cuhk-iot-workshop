@@ -12,20 +12,19 @@ Our purpose here is for you to sample this beautiful language prior to our Ruby 
 
 ### Steps
 
-1. Visit [CodeSchool](http://tryruby.org)
-2. Sign up for a free account if necessary
+1. Visit [CodeSchool's Try Ruby](http://tryruby.org)
+2. Sign up or login
 3. Work on the challenges
 5. Share your scores with instructor
-  1. Visit `MY ACCOUNT`
-  2. Visit `My Report Card`
-  3. Click `Make Public`
-  4. Email link to harry@ga.com
+  * Visit `MY ACCOUNT`
+  * Visit `My Report Card`
+  * Click `Make Public`
+  * Email link to harry@ga.com
 
-### Target
+### Goal
 
 - Complete at least LEVEL 1
 
-### Resources
+### Additional Resource
 
-- Try Ruby (http://tryruby.org)
 - [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/)
