@@ -8,9 +8,7 @@ You will hear us say, _"writing beautiful code is important!"_ Why? Well let's f
 2. Maintainable
 3. Concise
 
-You will hear us harp on proper indentation and choices of words and names.
-
-The intention is not to make life difficult for you, but rather to build up good habits.
+You will hear us harp on proper indentation and choices of words and names. The intention is not to make life difficult for you, but rather to build up good habits.
 
 Coding, once you understand the basics is not difficult. But as a project grows, keeping things understandable and maintainable becomes the real challenge.
 

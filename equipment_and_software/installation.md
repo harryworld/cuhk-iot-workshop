@@ -1,6 +1,6 @@
-## Installation
+## Warning: Installation
 
-__Warning: Do not__ try to install (Ruby, Rails, PostgreSQL, etc.) until class starts.
+__Do not__ try to install (Ruby, Rails, PostgreSQL, etc.) until class starts.
 
 __Bad installs can cause time-consuming problems__.  If you’ve already setup your development environment, we recommend making a backup of your settings.
 

@@ -1,4 +1,4 @@
-# Deployment
+## Deployment
 
 We are going to deploy your personal site on two separate and easy to use services.
 

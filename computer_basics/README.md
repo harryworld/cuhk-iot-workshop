@@ -1,10 +1,10 @@
 ## Computer Basics
 
-Before we dive into programming, make sure you know your way around your computer like a developer. Your computer is now a tool of your trade.
+Before we dive deeper, make sure you know your way around your computer like a developer. Your computer is now a _tool-of-your-trade_. Treat it well!
 
-Try to incorporate keyboard shortcuts into your day-to-day computer use. They may be awkward at first, but learning them will make you exponentially faster. So skip the mouse and use the keyboard shortcuts. Use them enough times and they become muscle memory.
+As an exercise, try to incorporate _keyboard shortcuts_ into your day-to-day computer use. It may feel awkward at first, but _keyboard shortcuts_ will make you exponentially faster. Use them enough times and they will soon become muscle memory.
 
-Learning to use your computer efficiently and typing quickly are the **MOST CRITICAL** parts of the prework.
+Getting comfortable with your computer is one of the __MOST IMPORTANT__ part of the prework.
 
 <br><br>
 

@@ -1,6 +1,6 @@
 # Typing
 
-### Purposes
+### Purpose
 
 As a developer, you will be spending a lot of time on the keyboard. Getting comfortable typing quickly will improve your productivity.
 
