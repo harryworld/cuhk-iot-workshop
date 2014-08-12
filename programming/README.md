@@ -2,7 +2,7 @@
 
 A programming language is a language designed to communicate instructions to a computer.
 
-Last checked, there are 688 programming languages listed on [wikipedia](http://en.wikipedia.org/wiki/List_of_programming_languages). Some are "ancient" languages that are rarely uses anymore. Some are designed for specific tasks.
+Last checked, there are 688 programming languages listed on [wikipedia](http://en.wikipedia.org/wiki/List_of_programming_languages). Some are "ancient" languages that are rarely used anymore. Some are designed for specific tasks.
 
 Among the most popular used in the internet industry today are:
 
