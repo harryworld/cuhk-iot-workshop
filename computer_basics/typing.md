@@ -2,7 +2,7 @@
 
 ### Purposes
 
-As a web developer, you will be spending a lot time on the keyboard. Getting comfortable typing quickly will improve your productivity.
+As a developer, you will be spending a lot of time on the keyboard. Getting comfortable typing quickly will improve your productivity.
 
 ### Goals:
 
