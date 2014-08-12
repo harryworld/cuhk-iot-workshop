@@ -9,6 +9,8 @@
    * [Warning: Installation](equipment_and_software/installation.md)
 * [Computer Basics](computer_basics/README.md)
   * [Mac Basics](computer_basics/mac_keyboard_shortcuts.md)
+  * [Windows Basics]
+  * [Linux Basics]
   * [Typing](computer_basics/typing.md)
 * [Your First Site](first_site/README.md)
    * [Install Google Chrome](first_site/install_google_chrome.md)
