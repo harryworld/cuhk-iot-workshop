@@ -1,4 +1,4 @@
-# Recommended readings
+## Recommended Books
 
 * [__Rework__](http://37signals.com/rework/)
 * [__Remote__](http://37signals.com/remote/)
