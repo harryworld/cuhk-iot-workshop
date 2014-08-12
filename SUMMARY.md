@@ -27,7 +27,7 @@
        * [Terminal ???]
        * [git ???]
 * [Programming](programming/README.md)
-  * [Coffeescript](coffeescript/README.md)
-  * [Ruby](ruby/README.md)
+  * [Coffeescript](programming/coffeescript/README.md)
+  * [Ruby](programming/ruby/README.md)
 * [Books](books/README.md)
 

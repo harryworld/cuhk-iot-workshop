@@ -1,0 +1,31 @@
+## Ruby
+
+### Purposes
+
+Ruby is a programming language invented over 20 years ago. It's design philosophy was driven by it's mantra _"a programmer's best friend."_
+
+However, it was not an immediate success. It's fame came after the creation of the Ruby on Rails framework.
+
+The concepts from both Ruby and Ruby on Rails have had a large impact on the internet industry and current design of both computer languages and frameworks.
+
+Our purpose here is for you to sample this beautiful language prior to our Ruby on Rails segment of the WDI course.
+
+### Steps
+
+1. Visit [CodeSchool](http://tryruby.org)
+2. Sign up for a free account if necessary
+3. Work on the challenges
+5. Share your scores with instructor
+  1. Visit `MY ACCOUNT`
+  2. Visit `My Report Card`
+  3. Click `Make Public`
+  4. Email link to harry@ga.com
+
+### Target
+
+- Complete at least LEVEL 1
+
+### Resources
+
+- Try Ruby (http://tryruby.org)
+- [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/)
