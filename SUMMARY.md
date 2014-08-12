@@ -22,7 +22,7 @@
 * [Terminal and Command Line](terminal/README.md)
    * [Installations (Mac OSX)](terminal/installations_mac.md)
        * [Git via Command Line Tools](terminal/git_mac.md)
-       * [oh-my-zsh]
+       * [Oh-My-Zsh](terminal/oh-my-zsh_mac.md)
    * [Installations (Windows)](terminal/installations_win.md)
        * [Git for Windows](terminal/git_win.md)
 * [Programming](programming/README.md)
