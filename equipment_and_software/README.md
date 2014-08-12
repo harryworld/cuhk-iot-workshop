@@ -1,8 +1,15 @@
-# Equipment and Software
+## Equipment and Software
 
-The prework does not require any specific software or configuration other than a browser, and we designed it that way for a reason. Installing software and setting up your development environment can be one of the most frustrating parts of starting out as a web developer.
 
-Most web developers, including our instructional team, use Macs to do their development. We will be able to provide the best support for you if you also have one.
+### Software
+The prework requires minimal software installation. The software that you'll need are freely downloadable and will be introduced to you in a _just-in-time_ manner.
+
+### Hardware
+Most web developers, including our instructional team, use Macs to do their development.
+
+It's not because we are all Apple fanboys. It's just that most of the open source tools are geared towards Macs.
+
+We will be able to provide the best support to you if you also have one.
 
 <br><br>
 
