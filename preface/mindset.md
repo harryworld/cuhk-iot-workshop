@@ -4,13 +4,20 @@ Learning anything successfully requires a good mindset. Here are a few things to
 
 #### There is no magic in learning.
 
-You get what you put into the course.
+At least no magic until the day we can transfer knowledge, _a la Matrix_, by plugging in a chip into your brain.
+
+For now, you get what you put into the course.
 
 #### No one knows everything.
 
-That includes your instructors. However, with the right experience and skillset, we can figure things out.
+That includes your instructors. We are not high and mighty.
+
+What we do have are experience, skill sets, and connections to help us figure things out.
 
 #### Development is an art.
 
-As the saying goes, _"there are many was to skin a cat."_ So keep an open mind and exposing yourself to different ways people approach things. It will only help you grow.
+The saying goes, _"There are many was to skin a cat."_
 
+Keep an open mind and expose yourself to different ways people approach problems.
+
+It will help you grow as a developer much quicker.
