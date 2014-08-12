@@ -21,14 +21,12 @@
        * [Github Pages](first_site/deployment/github_pages.md)
 * [Terminal and Command Line](terminal/README.md)
    * [Installations (Mac OSX)](terminal/installations_mac.md)
-       * [iTerm 2]
        * [Git via Command Line Tools]
        * [oh-my-zsh]
    * [Installations (Windows)](terminal/installations_win.md)
-       * [Terminal ???]
        * [git ???]
 * [Programming](programming/README.md)
-  * [CoffeeScript](programming/coffeescript/README.md)
-  * [Ruby](programming/ruby/README.md)
+   * [CoffeeScript](programming/coffeescript/README.md)
+   * [Ruby](programming/ruby/README.md)
 * [Books](books/README.md)
 
