@@ -18,7 +18,7 @@ We chose two languages to give you exposure. It may feel a bit overwhelming at f
 
 The important thing is to expose yourself to the fundamental programming concepts and at least have looked at and got used to typing a few lines of code. That said, do give the upcoming challenges an honest try!
 
-Once the fundamentals programming concepts clicks in your mind, you will be able to pick up new programming languages quickly and on demand.
+Once the fundamental programming concepts clicks in your mind, you will be able to pick up new programming languages quickly and on demand.
 
 
 ### Goal
