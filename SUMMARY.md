@@ -5,7 +5,7 @@
   * [Mindset](preface/mindset.md)
   * [Beautiful Code](preface/beautiful_code.md)
 * [Equipment and Software](equipment_and_software/README.md)
-   * [Strongly Suggested Hardware/Software](equipment_and_software/strongly_suggested_hardwaresoftware.md)
+   * [Strongly Suggested Hardware/Software](equipment_and_software/strongly_suggested_hardware.md)
    * [Installation](equipment_and_software/installation.md)
 * [Computer Basics](computer_basics/README.md)
    * [OSX Basics](computer_basics/osx_basics.md)
