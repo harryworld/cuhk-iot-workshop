@@ -1,6 +1,9 @@
 # Summary
 
-* [Introduction](README.md)
+* [Preface](preface/README.md)
+  * [Technology](preface/technology.md)
+  * [Mindset](preface/mindset.md)
+  * [Beautiful Code](preface/beautiful_code.md)
 * [Equipment and Software](equipment_and_software/README.md)
    * [Strongly Suggested Hardware/Software](equipment_and_software/strongly_suggested_hardwaresoftware.md)
    * [Installation](equipment_and_software/installation.md)
