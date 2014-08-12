@@ -1,4 +1,4 @@
-# Welcome to WDI
+## Welcome to WDI
 
 Congratulations on joining _Web Development Immersive (WDI)_.
 
