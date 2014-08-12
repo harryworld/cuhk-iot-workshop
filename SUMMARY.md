@@ -1,7 +1,5 @@
 # Summary
 
-This is the summary of my book.
-
 * [Preface](preface/README.md)
   * [Technology](preface/technology.md)
   * [Mindset](preface/mindset.md)
@@ -13,21 +11,21 @@ This is the summary of my book.
    * [OSX Basics](computer_basics/osx_basics.md)
    * [Typing](computer_basics/typing.md)
 * [Your First Site](first_site/README.md)
-  * [Install Google Chrome]
-  * [Choose a theme]
-  * [Install Sublime Text 3]
-  * [Modify Site](first_site/modify.md)
-  * [Deploy and Share](first_site/deployment.md)
-    * [Bit Balloon](first_site/deployment/bit_balloon.md)
-    * [Github Pages](first_site/deployment/github_pages.md)
+   * [Install Google Chrome](first_site/install_google_chrome.md)
+   * [Choose a theme]
+   * [Install Sublime Text 3]
+   * [Modify Site](first_site/modify.md)
+   * [Deploy and Share](first_site/deployment.md)
+       * [Bit Balloon](first_site/deployment/bit_balloon.md)
+       * [Github Pages](first_site/deployment/github_pages.md)
 * [Terminal and Command Line](terminal/README.md)
-  * [Installations (Mac OSX)]
-    * [iTerm 2]
-    * [Git via Command Line Tools]
-    * [oh-my-zsh]
-  * [Installations (Windows)]
-    * [Terminal ???]
-    * [git ???]
+   * [Installations (Mac OSX)]
+       * [iTerm 2]
+       * [Git via Command Line Tools]
+       * [oh-my-zsh]
+   * [Installations (Windows)]
+       * [Terminal ???]
+       * [git ???]
 * [Coffeescript](coffeescript/README.md)
 * [Ruby](ruby/README.md)
 * [Books](books/README.md)
