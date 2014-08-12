@@ -21,10 +21,10 @@
        * [Github Pages](first_site/deployment/github_pages.md)
 * [Terminal and Command Line](terminal/README.md)
    * [Installations (Mac OSX)](terminal/installations_mac.md)
-       * [Git via Command Line Tools]
+       * [Git via Command Line Tools](terminal/git_mac.md)
        * [oh-my-zsh]
    * [Installations (Windows)](terminal/installations_win.md)
-       * [git ???]
+       * [Git for Windows](terminal/git_win.md)
 * [Programming](programming/README.md)
    * [CoffeeScript](programming/coffeescript/README.md)
    * [Ruby](programming/ruby/README.md)
