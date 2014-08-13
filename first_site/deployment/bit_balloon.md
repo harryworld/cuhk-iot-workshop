@@ -14,7 +14,7 @@ Besides that, BitBalloon provides you the feature to create the form for collect
 
 ### Steps
 
-1. Visit the [BitBalloon] site
+1. Visit the [BitBalloon](https://www.bitballoon.com/) site
 2. Drag your folder of content, including HTML, CSS and JS to the labeled place in BitBalloon home page
 3. Register an accout, or log-in if you have one already
 4. Setup your account accordingly

@@ -9,7 +9,7 @@ This is a very common way nowadays to host a static site. All you need to do is 
 ### Steps
 
 1. Register `GitHub` account, with your __username__
-2. Create a repository under your username, which look like `__username__.github.io`
+2. Create a repository under your username, which look like `username.github.io`
 3. Download the GitHub GUI tool (Mac / Windows)
 4. Click the green "Set up in Desktop" button. When the GitHub desktop app opens, save the project.
 5. Copy the content of the theme folder into this new project
