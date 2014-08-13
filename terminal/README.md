@@ -6,7 +6,7 @@ The command line is the way developers interact with their computer. It looks in
 
 In this section you will learn how to get around in this environment.
 
-#### 2.1 Prerequisites:
+#### Prerequisites:
 
 * Install iTerm
   * Macs
@@ -23,12 +23,3 @@ In this section you will learn how to get around in this environment.
   * Default interface is called Bash
   * Make things better, a lot of developers choose Z-Shell
   * Easy way is to install via Oh-My-ZSH
-
-
-#### Steps:
-
-
-#### Goals:
-
-
-#### Resources

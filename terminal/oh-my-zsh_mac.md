@@ -2,7 +2,7 @@
 
 ### Purposes
 
-```Your terminal never felt __this__ good before.```
+Your terminal never felt _this_ good before.
 
 This is what described by Oh-My-Zsh. A lot of people think that developers are boring, but actually we are NOT. We love beautiful things, we love to make everything effective, and want to live our life better.
 
