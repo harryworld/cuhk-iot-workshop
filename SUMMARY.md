@@ -10,8 +10,6 @@
   * [Warning: Installation](equipment_and_software/installation.md)
 * [Computer Basics](computer_basics/README.md)
   * [Mac Basics](computer_basics/mac_keyboard_shortcuts.md)
-  * [Windows Basics]
-  * [Linux Basics]
   * [Typing](computer_basics/typing.md)
 * [Your First Site](first_site/README.md)
   * [Install Google Chrome](first_site/install_google_chrome.md)
@@ -27,6 +25,7 @@
     * [Oh-My-Zsh](terminal/oh-my-zsh_mac.md)
   * [Installations (Windows)](terminal/installations_win.md)
     * [Git for Windows](terminal/git_win.md)
+  * [Command Line Basics](terminal/command_line_basics.md)
 * [Programming](programming/README.md)
   * [CoffeeScript](programming/coffeescript/README.md)
   * [Ruby](programming/ruby/README.md)
