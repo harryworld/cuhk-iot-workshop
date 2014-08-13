@@ -13,7 +13,7 @@
    * [Typing](computer_basics/typing.md)
 * [Your First Site](first_site/README.md)
    * [Install Google Chrome](first_site/install_google_chrome.md)
-   * [Choose a theme]
+   * [Bootstrap](first_site/bootstrap.md)
    * [Install Sublime Text 3](first_site/install_sublime.md)
    * [Modify Site](first_site/modify.md)
    * [Deploy and Share](first_site/deployment.md)
