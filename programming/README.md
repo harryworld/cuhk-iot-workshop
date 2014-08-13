@@ -2,7 +2,7 @@
 
 A programming language is a language designed to communicate instructions to a computer.
 
-Last checked, there are 688 programming languages listed on [wikipedia](http://en.wikipedia.org/wiki/List_of_programming_languages). Some are "ancient" languages that are rarely uses anymore. Some are designed for specific tasks.
+Last checked, there are 688 programming languages listed on [wikipedia](http://en.wikipedia.org/wiki/List_of_programming_languages). Some are "ancient" languages that are rarely used anymore. Some are designed for specific tasks.
 
 Among the most popular used in the internet industry today are:
 
@@ -18,7 +18,7 @@ We chose two languages to give you exposure. It may feel a bit overwhelming at f
 
 The important thing is to expose yourself to the fundamental programming concepts and at least have looked at and got used to typing a few lines of code. That said, do give the upcoming challenges an honest try!
 
-Once the fundamentals programming concepts clicks in your mind, you will be able to pick up new programming languages quickly and on demand.
+Once the fundamental programming concepts clicks in your mind, you will be able to pick up new programming languages quickly and on demand.
 
 
 ### Goal
