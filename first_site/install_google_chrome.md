@@ -2,7 +2,7 @@
 
 ### Purposes
 
-Common browsers nowadays include Internet Explorer, Chrome, Firefox and Safari etc. For web development, we would highly prefer to use Google Chrome, since it is more developer-friendly, especially with
+Common browsers nowadays include Internet Explorer, Chrome, Firefox and Safari etc. For web development, we would highly prefer to use Google Chrome, since it is more developer-friendly, especially with the Inspector Console.
 
 ### Steps
 
@@ -16,7 +16,7 @@ Common browsers nowadays include Internet Explorer, Chrome, Firefox and Safari e
 ### Goals
 
 - Installed Google Chrome
-- Tried using Google Console
+- Tried using Chrome Console
 
 ### Resources:
 

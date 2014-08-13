@@ -1,14 +1,14 @@
 ## Bit Balloon
 
-Bit Balloon is a online ...
+Bit Balloon is a online hosting platform for HTML5 sites & apps.
 
-Makes it really easy to host static sites.
+It makes it really easy to host static sites.
 
 ### Purposes
 
 The Internet start off with static HTML sites, it generally stores in a hosting server, you need to register a domain and map to it. This contains a lot of works. Thus, we want something easier to get a site online.
 
-BitBalloon is a very quick way to make your own site online, you just need to drag the folder of HTML into the site, then it becomes online in seconds.
+BitBalloon is a very quick way to make your own site online, you just need to drag the folder of HTML into the home page, then it becomes online in seconds.
 
 Besides that, BitBalloon provides you the feature to create the form for collecting signups automatically, you don't need to write a program for that.
 
