@@ -16,7 +16,7 @@ JavaScript was originally designed so programmers can add basic interactivity to
   1. Visit `MY ACCOUNT`
   2. Visit `My Report Card`
   3. Click `Make Public`
-  4. Email link to harry@ga.com
+  4. Email link to harry.ng@generalassemb.ly
 
 ### Goal
 

@@ -19,7 +19,7 @@ Our purpose here is for you to sample this beautiful language prior to our Ruby 
   * Visit `MY ACCOUNT`
   * Visit `My Report Card`
   * Click `Make Public`
-  * Email link to harry@ga.com
+  * Email link to harry.ng@generalassemb.ly
 
 ### Goal
 
