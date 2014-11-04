@@ -15,11 +15,6 @@ Our purpose here is for you to sample this beautiful language prior to our Ruby 
 1. Visit [CodeSchool's Try Ruby](http://tryruby.org)
 2. Sign up or login
 3. Work on the challenges
-5. Share your scores with instructor
-  * Visit `MY ACCOUNT`
-  * Visit `My Report Card`
-  * Click `Make Public`
-  * Email link to harry.ng@generalassemb.ly
 
 ### Goal
 

@@ -12,11 +12,6 @@ JavaScript was originally designed so programmers can add basic interactivity to
 2. Sign up or login
 3. Watch the videos
 4. Complete the challenges
-5. Share your scores with instructor
-  1. Visit `MY ACCOUNT`
-  2. Visit `My Report Card`
-  3. Click `Make Public`
-  4. Email link to harry.ng@generalassemb.ly
 
 ### Goal
 
