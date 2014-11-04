@@ -2,10 +2,10 @@
 
 
 ### Software
-The prework requires minimal software installation. The software that you'll need are freely downloadable and will be introduced to you in a _just-in-time_ manner.
+This guideline requires minimal software installation. The software that you'll need are freely downloadable and will be introduced to you in a _just-in-time_ manner.
 
 ### Hardware
-Most web developers, including our instructional team, use Macs to do their development.
+Most web developers use Macs to do their development.
 
 It's not because we are all Apple fanboys. It's just that most of the open source tools are geared towards Macs.
 

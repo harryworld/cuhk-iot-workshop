@@ -1,7 +1,7 @@
-## Welcome to WDI
+## Welcome to IoT Workshop
 
-Congratulations on joining _Web Development Immersive (WDI)_.
+Congratulations on joining _IoT Workshop_.
 
-This is the beginning of your new and exciting journey in turning yourself from a _thinker to a creator_.
+This is the beginning of your new and exciting journey in the world of Internet of Things (IoT).
 
-Our goal is to turn you into a _Full-Stack Web Developer_ as smoothly and quickly as possible.
+Our goal is to showcase some examples about the IoT applications, as well as guide you into the playground.

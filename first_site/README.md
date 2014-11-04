@@ -1,15 +1,12 @@
-# First Site
+# First Step
 
 #### Purpose:
 
-Be exposed to basic HTML, CSS and deployment. You will be downloading a site template and modify it ...
+Be prepared to your working environment.
 
 #### Goals:
 
-At the end of this exercise, you will have a personal site you can share with friends.
-
-* First glance of HTML
-* CSS
+At the end of this exercise, you will have setup the tools necessary for development.
 
 #### Resources:
 
