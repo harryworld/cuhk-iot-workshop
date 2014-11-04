@@ -4,6 +4,8 @@
 
 Honestly, we don't have a good suggestion to make the Terminal in Windows better, but there are some resources out there. Please do let us know if you found any good solution.
 
+One option is to use the default Command Prompt.
+
 ### Steps
 
 1. Try...

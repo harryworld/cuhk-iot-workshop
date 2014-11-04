@@ -1,4 +1,4 @@
-## Oh-My-ZSH
+## Oh-My-ZSH (Optional)
 
 ### Purposes
 
