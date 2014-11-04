@@ -32,4 +32,5 @@
    * [CoffeeScript](programming/coffeescript/README.md)
    * [Ruby](programming/ruby/README.md)
 * [Recommended Books](books/README.md)
+* [Contact Instructors](contact_instructors/README.md)
 
