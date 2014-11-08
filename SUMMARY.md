@@ -20,6 +20,7 @@
    * [Strongly Suggested Hardware/Software](equipment_and_software/strongly_suggested_hardware.md)
    * [Warning: Installation](equipment_and_software/installation.md)
    * [Optional](equipment_and_software/optional.md)
+   * [Arduino](equipment_and_software/arduino.md)
 * [Computer Basics](computer_basics/README.md)
    * [Mac Basics](computer_basics/mac_keyboard_shortcuts.md)
    * [Typing](computer_basics/typing.md)

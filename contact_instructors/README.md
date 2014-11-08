@@ -4,7 +4,7 @@ The purpose of this workshop is to help you in exploring the possibilities of tu
 
 ## Discussion Group
 
-- Slack
+- [Discussion on Slack](http://cuhk.slack.com/)
 
 ## Instructor Bio
 
@@ -20,3 +20,6 @@ This concept has helped him win awards at various startup events around the regi
 
 Harry speaks, teaches, organizes startup events (e.g. [Rails Girls](http://railsgirls.com/hongkong)) and currently serves as cofounder of Request, a company focusing on products about iBeacon and location-awareness technologies.
 
+### William Wong
+
+- Email: [william@i-for-interactive.com](mailto:william@i-for-interactive.com)
